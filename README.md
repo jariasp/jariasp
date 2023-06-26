@@ -1,7 +1,7 @@
-# Hola, mi nombre es Juan Arias 👋
-![:Jariasp-Desarrollando:](https://github.com/jariasp/jariasp/blob/22cdcd1159dc58d40d78d219bc702e0fd0762539/banner.png)
-### Hi there 👋
+👋 Hola, Soy Juan Arias. Bienvenido 👋
+![J|Desarrollando](https://github.com/jariasp/jariasp/blob/22cdcd1159dc58d40d78d219bc702e0fd0762539/banner.png)
 
+Starting with Python
 <!--
 **jariasp/jariasp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
